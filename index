@@ -1,0 +1,9 @@
+<div class="container text-center">
+  <h2>Show the Local Weather</h2>
+  <h4>A freeCodeCamp Front End Developer Project</h4>
+  <ul class="list-unstyled">
+    <li id="city" class="btn btn-lg btn-default"></li>
+    <li id="celsius" class="btn btn-lg btn-default"></li>
+    <li id="weatherType" class="btn btn-lg btn-default"></li>
+  </ul>
+</div>
